@@ -1,0 +1,57 @@
+# _config.yml for my Octopress blog on GitHub.
+# File Created: 27 October 2015
+# Ref: http://www.blazeboy.me/how-to-create-a-blog-like-this-for-free-octopress-3-scribble-theme-github.html
+# Ref: http://www.railsonmaui.com/blog/2014/03/05/octopress-setup-with-github-and-org-mode-v2/
+#
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+#
+
+# Octopress configuration
+# Ref: https://github.com/octopress/octopress
+# Default extension for new posts and pages
+post_ext: org
+page_ext: html
+
+# Default templates for posts and pages
+# Found in _templates/
+post_layout: post
+page_layout: page
+
+# Format titles with titlecase?
+titlecase: true
+
+# Change default template file (in _templates/)
+post_template: post
+page_template: page
+draft_template: draft
+
+# Site settings
+title: No Warranty Expressed or Implied
+email: john@synchromesh.com
+description: >                  # this means to ignore newlines until "baseurl:"
+  John Pallister\'s new blog. Written in Org mode using Emacs,
+  published via Octopress to GitHub.
+baseurl: "/blog"                # the subpath of your site, e.g. /blog
+url: "https://synchromesh.github.io" # the base hostname & protocol for your site
+twitter_username: synchromesh
+github_username:  synchromesh
+
+# Build settings
+markdown: kramdown
+
+# Ref: https://github.com/yoshinari-nomura/org-octopress "How to use"
+permalink: /blog/:year-:month-:day-:title.html
+
+# 27 Oct 15 JDP
+# Ref: http://www.rubydoc.info/gems/octopress-solarized/1.1.2
+# Ref: https://github.com/octopress/solarized
+# Alternatively, Ref: https://github.com/octopress/genesis-theme
+#gems:
+#  - octopress-solarized
+
+# End of _config.yml
