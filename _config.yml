@@ -34,8 +34,8 @@ draft_template: draft
 title: No Warranty Expressed or Implied
 email: john@synchromesh.com
 description: >                  # this means to ignore newlines until "baseurl:"
-  John Pallister\'s new blog. Written in Org mode using Emacs,
-  published via Octopress to GitHub.
+  Being the new blog of John Pallister. Lisp, music, synthesisers,
+  virtual reality and more (eventually).
 baseurl: "/blog"                # the subpath of your site, e.g. /blog
 url: "https://synchromesh.github.io" # the base hostname & protocol for your site
 twitter_username: synchromesh
@@ -43,6 +43,9 @@ github_username:  synchromesh
 
 # Build settings
 markdown: kramdown
+
+exclude: [ org ]
+destination: ../html/blog
 
 # Ref: https://github.com/yoshinari-nomura/org-octopress "How to use"
 permalink: /blog/:year-:month-:day-:title.html

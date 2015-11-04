@@ -9,10 +9,10 @@
 #+JEKYLL_PUBLISHED: true
 
 * First post
-  I'm trying to get ~[[http://octopress.org/][Octopress]]~ and ~[[http://orgmode.org/][Org mode]]~/~[[https://github.com/yoshinari-nomura/org-octopress][org-octopress]]~ set up
-  and hosted on [[https://pages.github.com/][GitHub Pages]].
+  I'm trying to get [[http://octopress.org/][Octopress]] and [[http://orgmode.org/][Org mode]]/[[https://github.com/yoshinari-nomura/org-octopress][org-octopress]] set up and
+  hosted on [[https://pages.github.com/][GitHub Pages]].
 
-  {{{more}}}
+  # {{{more}}}
 
   Resources:
   * [[http://www.blazeboy.me/how-to-create-a-blog-like-this-for-free-octopress-3-scribble-theme-github.html][HOW TO CREATE A BLOG LIKE THIS FOR FREE : OCTOPRESS 3 + SCRIBBLE THEME + GITHUB]]
