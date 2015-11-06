@@ -36,7 +36,7 @@ email: john@synchromesh.com
 description: >                  # this means to ignore newlines until "baseurl:"
   Being the new blog of John Pallister. Lisp, music, synthesisers,
   virtual reality and more (eventually).
-baseurl: "/blog"                # the subpath of your site, e.g. /blog
+#baseurl: "/blog"                # the subpath of your site, e.g. /blog
 url: "https://synchromesh.github.io" # the base hostname & protocol for your site
 twitter_username: synchromesh
 github_username:  synchromesh
@@ -49,6 +49,7 @@ destination: ../html/blog
 
 # Ref: https://github.com/yoshinari-nomura/org-octopress "How to use"
 permalink: /blog/:year-:month-:day-:title.html
+#permalink: /:year-:month-:day-:title.html
 
 # 27 Oct 15 JDP
 # Ref: http://www.rubydoc.info/gems/octopress-solarized/1.1.2
