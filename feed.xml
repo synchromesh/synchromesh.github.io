@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>No Warranty Expressed or Implied</title>
-    <description>Being the new blog of John Pallister. Lisp, music, synthesisers, virtual reality and more (eventually).
+    <description>John Pallister&#39;s new blog. Lisp, music, synthesisers, virtual reality and more (eventually).
 </description>
     <link>https://synchromesh.github.io/</link>
     <atom:link href="https://synchromesh.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 06 Nov 2015 12:10:47 +0000</pubDate>
-    <lastBuildDate>Fri, 06 Nov 2015 12:10:47 +0000</lastBuildDate>
+    <pubDate>Fri, 06 Nov 2015 14:37:19 +0000</pubDate>
+    <lastBuildDate>Fri, 06 Nov 2015 14:37:19 +0000</lastBuildDate>
     <generator>Jekyll v3.0.0</generator>
     
       <item>
@@ -22,9 +22,10 @@ hosted on &lt;a href=&quot;https://pages.github.com/&quot;&gt;GitHub Pages&lt;/a
 
 
 &lt;p&gt;
-Resources:
+Resources (of varying usefulness):
 &lt;/p&gt;
 &lt;ul class=&quot;org-ul&quot;&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.chrisanthropic.com/blog/2014/installing-octopress-3-0-from-scratch/&quot;&gt;Installing Octopress 3.0 From Scratch&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;http://www.blazeboy.me/how-to-create-a-blog-like-this-for-free-octopress-3-scribble-theme-github.html&quot;&gt;HOW TO CREATE A BLOG LIKE THIS FOR FREE : OCTOPRESS 3 + SCRIBBLE THEME + GITHUB&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;http://www.railsonmaui.com/blog/2014/03/05/octopress-setup-with-github-and-org-mode-v2/&quot;&gt;Org-Mode Octopress Setup V2&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;http://octopress.org/docs/deploying/github/&quot;&gt;Deploying to Github Pages&lt;/a&gt;&lt;/li&gt;
@@ -36,16 +37,16 @@ I have an &lt;a href=&quot;https://johnp.net/blog/&quot;&gt;old blog&lt;/a&gt;, 
 &lt;/div&gt;
 &lt;/div&gt;
 </description>
-        <pubDate>Tue, 03 Nov 2015 00:00:00 +0000</pubDate>
-        <link>https://synchromesh.github.io/blog/2015-11-03-first-post.html</link>
-        <guid isPermaLink="true">https://synchromesh.github.io/blog/2015-11-03-first-post.html</guid>
-        
+        <pubDate>Tue, 03 Nov 2015 12:30:00 +0000</pubDate>
+        <link>https://synchromesh.github.io/2015/11/03/first-post.html</link>
+        <guid isPermaLink="true">https://synchromesh.github.io/2015/11/03/first-post.html</guid>
         
         <category>octopress</category>
         
         <category>org-mode</category>
         
         <category>meta</category>
+        
         
       </item>
     
