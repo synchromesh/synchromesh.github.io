@@ -4,10 +4,10 @@
     <title>No Warranty Expressed or Implied</title>
     <description>Being the new blog of John Pallister. Lisp, music, synthesisers, virtual reality and more (eventually).
 </description>
-    <link>https://synchromesh.github.io/blog/</link>
-    <atom:link href="https://synchromesh.github.io/blog/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 04 Nov 2015 15:05:47 +0000</pubDate>
-    <lastBuildDate>Wed, 04 Nov 2015 15:05:47 +0000</lastBuildDate>
+    <link>https://synchromesh.github.io/</link>
+    <atom:link href="https://synchromesh.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 06 Nov 2015 11:28:43 +0000</pubDate>
+    <lastBuildDate>Fri, 06 Nov 2015 11:28:43 +0000</lastBuildDate>
     <generator>Jekyll v3.0.0</generator>
     
       <item>
@@ -37,8 +37,8 @@ I have an &lt;a href=&quot;https://johnp.net/blog/&quot;&gt;old blog&lt;/a&gt;, 
 &lt;/div&gt;
 </description>
         <pubDate>Tue, 03 Nov 2015 00:00:00 +0000</pubDate>
-        <link>https://synchromesh.github.io/blog/blog/2015-11-03-first-post.html</link>
-        <guid isPermaLink="true">https://synchromesh.github.io/blog/blog/2015-11-03-first-post.html</guid>
+        <link>https://synchromesh.github.io/blog/2015-11-03-first-post.html</link>
+        <guid isPermaLink="true">https://synchromesh.github.io/blog/2015-11-03-first-post.html</guid>
         
         
         <category>octopress</category>
