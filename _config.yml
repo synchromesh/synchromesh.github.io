@@ -33,22 +33,23 @@ draft_template: draft
 # Site settings
 title: No Warranty Expressed or Implied
 email: john@synchromesh.com
-description: >                  # this means to ignore newlines until "baseurl:"
-  Being the new blog of John Pallister. Lisp, music, synthesisers,
-  virtual reality and more (eventually).
-#baseurl: "/blog"                # the subpath of your site, e.g. /blog
-url: "https://synchromesh.github.io" # the base hostname & protocol for your site
+description: >
+  John Pallister's new blog. Lisp, music, synthesisers, virtual
+  reality and more (eventually).
+baseurl: ""                     # the subpath of your site, e.g. /blog
+url: "https://synchromesh.github.io"
 twitter_username: synchromesh
 github_username:  synchromesh
 
 # Build settings
-markdown: kramdown
+#markdown: kramdown
 
-exclude: [ org ]
+exclude: [ '**/*.org', org, Gemfile, 'Gemfile.lock' ]
+#exclude: [ org ]
 destination: ../html/blog
 
 # Ref: https://github.com/yoshinari-nomura/org-octopress "How to use"
-permalink: /blog/:year-:month-:day-:title.html
+#permalink: /blog/:year-:month-:day-:title.html
 #permalink: /:year-:month-:day-:title.html
 
 # 27 Oct 15 JDP

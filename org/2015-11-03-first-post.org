@@ -1,7 +1,6 @@
 # 2015-11-03-first-post.org
-#
 #+TITLE: First Post
-#+DATE: 2015-11-03
+#+DATE: 2015-11-03 12:32:00
 #+SETUPFILE: ~/Documents/org/org-octopress-setup.org
 #+JEKYLL_LAYOUT: post
 #+JEKYLL_CATEGORIES:
