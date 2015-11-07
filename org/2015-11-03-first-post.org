@@ -7,18 +7,18 @@
 #+JEKYLL_TAGS: octopress org-mode meta
 #+JEKYLL_PUBLISHED: true
 
-* First post
-  I'm trying to get [[http://octopress.org/][Octopress]] and [[http://orgmode.org/][Org mode]]/[[https://github.com/yoshinari-nomura/org-octopress][org-octopress]] set up and
-  hosted on [[https://pages.github.com/][GitHub Pages]].
+I'm trying to get [[http://octopress.org/][Octopress]] and [[http://orgmode.org/][Org mode]]/[[https://github.com/yoshinari-nomura/org-octopress][org-octopress]] set up and
+hosted on [[https://pages.github.com/][GitHub Pages]].
 
-  # {{{more}}}
+{{{more}}}
 
-  Resources (of varying usefulness):
+* Resources (of varying usefulness)
   * [[http://www.chrisanthropic.com/blog/2014/installing-octopress-3-0-from-scratch/][Installing Octopress 3.0 From Scratch]]
   * [[http://www.blazeboy.me/how-to-create-a-blog-like-this-for-free-octopress-3-scribble-theme-github.html][HOW TO CREATE A BLOG LIKE THIS FOR FREE : OCTOPRESS 3 + SCRIBBLE THEME + GITHUB]]
   * [[http://www.railsonmaui.com/blog/2014/03/05/octopress-setup-with-github-and-org-mode-v2/][Org-Mode Octopress Setup V2]]
   * [[http://octopress.org/docs/deploying/github/][Deploying to Github Pages]]
 
-  I have an [[https://johnp.net/blog/][old blog]], but going forward I plan to post about my current and future projects here.
+  I have an [[https://johnp.net/blog/][old blog]], but going forward I plan to post about my
+  current and future projects here.
 
 # End of 2015-11-03-first-post.org

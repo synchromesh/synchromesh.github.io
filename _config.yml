@@ -44,9 +44,15 @@ github_username:  synchromesh
 # Build settings
 #markdown: kramdown
 
-exclude: [ '**/*.org', org, Gemfile, 'Gemfile.lock' ]
-#exclude: [ org ]
+exclude: [ org, Gemfile, 'Gemfile.lock' ]
 destination: ../html/blog
+
+# Ref: http://jekyllrb.com/docs/collections/
+# Maps to pub/blog/_jpkb.
+collections:
+  jpkb:
+    output: true
+    permalink: /jpkb/:path/
 
 # Ref: https://github.com/yoshinari-nomura/org-octopress "How to use"
 #permalink: /blog/:year-:month-:day-:title.html

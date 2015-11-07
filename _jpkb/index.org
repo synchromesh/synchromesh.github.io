@@ -1,0 +1,23 @@
+---
+layout: page
+title: "John Pallister's Knowledge Base"
+date: 2015-11-06T16:51:41+00:00
+permalink: /jpkb/
+---
+# index.org
+# File Created: 6 November 2015
+
+* Welcome!
+  This is my personal wiki. I am a programmer and musician, husband
+  and father currently living in Norfolk, England. I can also be found
+  on [[https://www.facebook.com/synchromesh][Facebook]], [[https://twitter.com/synchromesh][Twitter]], [[https://www.google.com/+JohnPallisterSynchromesh][Google+]] and the [[http://www.muffwiggler.com/forum/profile.php?mode=viewprofile&u=4385][Muff Wiggler forum]].
+
+* News & updates
+  - *2015-11-06 Fri* ::
+       I'm creating a new version of my [[https://johnp.net/jpkb/][personal wiki site]] using
+       [[https://github.com/octopress/octopress][Octopress 3]], to be hosted on [[https://pages.github.com/][GitHub Pages]]. Using various
+       plugins, I can write everything in [[http://orgmode.org/][Org mode]] using [[http://www.gnu.org/software/emacs/][Emacs]].
+
+       For the time being, the [[https://johnp.net/jpkb/][original JPKB Trac site]] remains.
+
+# End of index.org

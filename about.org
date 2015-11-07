@@ -3,11 +3,17 @@ layout: page
 title: "About me and my blog"
 permalink: /about/
 ---
+# about.org
+# File Created: 28 October 2015
+# https://synchromesh.github.io/about/
+
 Hello, my name is John Pallister and I'm a programmer and musician,
 husband and father currently living in Norfolk, England.
 
 I have my own website at [[https://johnp.net][johnp.net]] and I can also be found on
 [[https://www.facebook.com/synchromesh][Facebook]], [[https://twitter.com/synchromesh][Twitter]], [[https://www.google.com/+JohnPallisterSynchromesh][Google+]] and the [[http://www.muffwiggler.com/forum/profile.php?mode=viewprofile&u=4385][Muff Wiggler forum]].
 
-This blog is written in [[http://orgmode.org/][Org mode]] using [[http://www.gnu.org/software/emacs/][Emacs]], published
+This [[/][blog]] and my [[/jpkb][wiki]] are written in [[http://orgmode.org/][Org mode]] using [[http://www.gnu.org/software/emacs/][Emacs]], published
 via [[https://github.com/yoshinari-nomura/org-octopress][org-octopress]] and [[https://github.com/octopress/octopress][Octopress 3]] to [[https://pages.github.com/][GitHub Pages]].
+
+# End of about.org
