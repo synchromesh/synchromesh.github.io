@@ -144,8 +144,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  github-pages (= 39)
-  json
+  github-pages
   octopress
   octopress-deploy
   org-ruby
